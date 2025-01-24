@@ -1,4 +1,8 @@
 # Characters.Faction-China
+
+# Strategy:
+https://en.wikipedia.org/wiki/Two_Bombs,_One_Satellite
+
 # Character:
 https://en.wikipedia.org/wiki/People%27s_Liberation_Army
 - https://en.wikipedia.org/wiki/Ranks_of_the_People%27s_Liberation_Army_Ground_Force
